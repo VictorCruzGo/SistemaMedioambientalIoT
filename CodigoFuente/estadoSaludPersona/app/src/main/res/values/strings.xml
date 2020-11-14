@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">estadoSaludPersona</string>
+    <string name="notificacion1">Registrar Usuario</string>
+    <string name="notificacion2">Mostrar Usuario</string>
+</resources>
